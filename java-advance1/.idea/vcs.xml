@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../http-web-basics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../java-orm-jpa-basic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../spring-advanced" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../spring-core-principle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../spring-data-jpa-basic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../spring-db-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../spring-security-with-jwt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../ttabaeku" vcs="Git" />
+  </component>
+</project>
